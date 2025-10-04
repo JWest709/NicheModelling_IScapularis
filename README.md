@@ -7,3 +7,9 @@ Additionally, this respository contains the filtered collection of Ixodes scapul
 Etick: https://etick.ca/
 
 iNaturalist: https://www.inaturalist.org
+
+For climate data used in the analysis, please see the following websites:
+
+AdaptWest: https://adaptwest.databasin.org/pages/adaptwest-climatena/
+
+CHELSA-Bioclim: https://chelsa-climate.org/bioclim/
